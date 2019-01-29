@@ -1,0 +1,7 @@
+<suite name="test" parallel="tests">
+    <test name="sampleTests">
+        <classes>
+            <class name="Util.OpenBrowser"></class>
+        </classes>
+    </test>
+</suite>
